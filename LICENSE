@@ -1,0 +1,28 @@
+LICENSE
+
+This license governs the use, copying, and distribution of the code in this repository.
+
+1. Permission to Use
+
+You are permitted to use the code in this repository for personal, academic, or organizational purposes without modification.
+
+2. Restrictions on Copying and Distribution
+
+You may not copy, modify, or distribute this code without proper attribution to the original author.
+If you copy or reuse any part of the code, you must include a clear citation to the author and this repository.
+
+3. Citation Requirement
+
+When using or distributing the code (or any derivatives), you must provide the following citation:
+
+Author: [Alison Zanluca]
+Repository: [https://github.com/AlisonZa/langgraph-dataframe-copilot]
+
+4. Commercial Use
+
+Commercial use of this code is prohibited without explicit written permission from the author.
+
+5. Warranty Disclaimer
+
+The code is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
