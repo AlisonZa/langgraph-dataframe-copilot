@@ -51,20 +51,24 @@ Insert two secrets variables: LANGCHAIN_API_KEY and GROQ_API_KEY, in the values 
 Initial query: output = graph.invoke({"user_query": "Plot me a chart of the salary by Manager"})
 
 Output: 
+
 ![image](https://github.com/user-attachments/assets/e933d58c-809c-4aa0-89a0-c26f8d4c3d51)
 
 Feedback: change the color to red
 
 Output: 
+
 ![image](https://github.com/user-attachments/assets/a79a0977-9bb2-4c4d-a62d-df6272dfacba)
 
 
 Feedback: rotate the xticks and change the title of the plot to Mean salary by Manager ID
 
 Output: 
+
 ![image](https://github.com/user-attachments/assets/0d35c3ab-241e-4539-8219-7c5f7c130164)
 
 Feedback: Put the mean salary as a line chart in this 
 
 Output: 
+
 ![image](https://github.com/user-attachments/assets/8664162b-d8df-4464-be9f-e47ca0be9ab7)
