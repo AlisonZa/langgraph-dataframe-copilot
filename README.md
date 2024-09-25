@@ -39,8 +39,7 @@ Insert two secrets variables: LANGCHAIN_API_KEY and GROQ_API_KEY, in the values 
 
 7. Now, you can use the agent to answer questions about your dataset with:
 
-   `# Invoke the graph
-    output = graph.invoke({"user_query": "Your Query Here"})` 
+   `output = graph.invoke({"user_query": "Your Query Here"})` 
 
 ## Future Improvements:
 * Provide the analyst with prompts for any errors that occur. Currently, the user must pass them manually. ⚠️
@@ -115,8 +114,7 @@ Insira duas variáveis Secret: LANGCHAIN_API_KEY e GROQ_API_KEY, no campo de val
 
 7. Agora, você pode usar o agente para responder perguntas sobre seu dataset com:
 
-   `# Invocar o grafo
-    output = graph.invoke({"user_query": "Sua Pergunta Aqui"})` 
+   `output = graph.invoke({"user_query": "Sua pergunta aqui"})`
 
 ## Melhorias Futuras:
 * Fornecer ao analista prompts para quaisquer erros que ocorram. Atualmente, o usuário deve passar manualmente. ⚠️
